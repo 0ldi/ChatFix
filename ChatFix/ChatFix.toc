@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: ChatFix
+## Version: 1.0
+## Notes: Joins specified channels after PLAYER_ENTERING_WORLD
+## Author: Gemt
+
+## SavedVariablesPerCharacter: ChatFix
+
+ChatFix.lua
