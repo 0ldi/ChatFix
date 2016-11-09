@@ -4,7 +4,7 @@ Frame:RegisterEvent("PLAYER_ENTERING_WORLD");
 local start_time = GetTime();
 local is_in_world = false;
 local is_in_channels = false;
-local left_channels = false
+local left_channels = false;
 
  Frame:SetScript("OnUpdate", function(self, elapsed)
 	if is_in_world and not is_in_channels then
