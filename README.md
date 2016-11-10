@@ -8,6 +8,7 @@ Fix for channels World, Trade, etc.
 ![](http://imagehost.spark-media.ru/i4/05A99506-3579-E367-CF7C-60F0A991B62C.png)
 
 # Changelog   		
+* Changed the channel order, now it follows the order of the channels like in Queue: General, Trade, LocalDefense, World
 * Added autoleave + autojoin to this channels only on Frame3 (after enter on character)  			
 * Added `World`, `Trade`, `General`, `LocalDefense` channels 				
 
