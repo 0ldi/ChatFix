@@ -5,7 +5,7 @@ Fix for channels World, Trade, etc.
 [towingie](https://github.com/towingie/ChatFix)
 
 # Showcase
-![](http://imagehost.spark-media.ru/i4/05A99506-3579-E367-CF7C-60F0A991B62C.png)
+![](http://imagehost.spark-media.ru/i4/08B7F57A-9195-BDDA-8436-87BE93F3707E.png)
 
 # Changelog   		
 * Changed the channel order, now it follows the order of the channels like in Queue: General, Trade, LocalDefense, World
