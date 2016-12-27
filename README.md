@@ -12,11 +12,10 @@ Fix for channels World, Trade, etc.
 * Added autoleave + autojoin to this channels only on Frame3 (after enter on character)  			
 * Added `World`, `Trade`, `General`, `LocalDefense` channels 				
 
-Based on `IMBA 1.4`
+Based on `ChatFix 1.0`
 
 # Instalation
-Put `IMBA` folder to `World of Warcraft\Interface\AddOns` 	
-For lightweight maps version replace .tga files from `LowQualityMaps` to `World of Warcraft\Interface\AddOns\IMBA\textures\MapImages` folder
+Put `ChatFix` folder to `World of Warcraft\Interface\AddOns` 	
 
 # Detailed description
 You can add any channel in the same way.
